@@ -11,8 +11,8 @@ gamemode made by KryptoCrash where the three teams
 are hider, hunter, and Inspector. The inspector
 team can show hiders and hunters and can help 
 either team. This team however is invisible but can
-not fly. This means that both teams will have to 
-hear what inspector team says. End Skys is end based
+not fly. This means that both teams will hear what
+inspector team says in chat. End Skys is end based
 sky island map.
 
 ```
