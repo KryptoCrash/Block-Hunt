@@ -12,7 +12,7 @@ are hider, hunter, and Inspector. The inspector
 team can show hiders and hunters and can help 
 either team. This team however is invisible but can
 not fly. This means that both teams will hear what
-inspector team says in chat. End Skys is end based
+inspector team says in chat. End Skys is end based on a 
 sky island map.
 
 ```
