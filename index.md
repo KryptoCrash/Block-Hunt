@@ -5,11 +5,19 @@
 BETA VERSION
 
 ```
-### MAPS
+
+
+### Maps
+
 
 [End Skys](https://kryptocrash.github.io/Block-Hunt/Maps/EndSkys)
+
+
 [Mesa](https://kryptocrash.github.io/Block-Hunt/Maps/Mesa)
+
+
 [Citadel](https://kryptocrash.github.io/Block-Hunt/Maps/Citadel)
+
 
 You can use the [editor on GitHub](https://github.com/KryptoCrash/Block-Hunt/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
