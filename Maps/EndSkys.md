@@ -1,7 +1,7 @@
 
 
 # End Skys
-## Map created by KryptoCrash and Wither_Man99 
+ Map created by KryptoCrash and Wither_Man99 
 
 ``` 
 End Skys is a map that consists of 2 gamemodes. 
