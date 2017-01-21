@@ -1,6 +1,6 @@
 
 # Mesa
-### Map created by Skillsbo
+ Map created by Skillsbo
 
 ```
 Mesa, this map is centered
