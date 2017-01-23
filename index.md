@@ -1,10 +1,7 @@
 ## Welcome to THE OFFICIAL BLOCKHUNT WEBSITE    
 
 
-```
-BETA VERSION
-
-```
+``` BETA VERSION ```
 
 
 ### Maps
