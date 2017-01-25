@@ -97,8 +97,13 @@ li.dropdown {
 </style>
 </head>
 <body>
-
-        <div class="container-fluid">
+<script>
+   var myVar = setInterval(myTimer ,20000);
+function myTimer() {
+    document.getElementById('hi').src='image.png'
+}
+   </script>       
+   <div class="container-fluid">
             
         
 
@@ -118,7 +123,7 @@ li.dropdown {
 <div class="home-content">
     <h1>Welcome to Block-Hunt</h1>
     <div class="home-logo">
-<img src="http://static.planetminecraft.com/files/resource_media/screenshot/1434/blockhuntjpg8031068_lrg.jpg">
+<img src="http://static.planetminecraft.com/files/resource_media/screenshot/1434/blockhuntjpg8031068_lrg.jpg" id="hi">
     </div>                                                                              </div>
     <br>
     <br>
