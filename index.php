@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	    <title>Blockhunt - Home</title>
+	    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	    <link rel="stylesheet" type="text/css" href="/assets/css/themes/bootstrap.yeti.theme.min.css">
+	    <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
+	</head>
+	<body>
+		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+		  	<div class="container">
+		    	<div class="navbar-header">
+		    		<a class="navbar-brand" href="/">Block Hunt</a>
+            		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-content">
+            			<span class="sr-only">Toggle navigation</span>
+            			<span class="icon-bar"></span>
+            			<span class="icon-bar"></span>
+            			<span class="icon-bar"></span>
+            		</button>
+        		</div>
+        		<div class="collapse navbar-collapse navbar-content">
+        			<ul class="nav navbar-nav navbar-left">
+        				<li><a href="/">Home</a></li>
+                		<li><a href="/developers">Devs</a></li>
+        			</ul>
+        			<ul class="nav navbar-nav navbar-right">
+        				<li class="dropdown">
+                    		<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    			Maps<b class="caret"></b>
+                    		</a>
+                    		<ul class="dropdown-menu" role="menu">
+                        		<li><a href="/maps/EndSkys">EndSkys</a></li>
+                        		<li><a href="/maps/Mesa">Mesa</a></li>
+                        		<li><a href="/maps/Citadel">Citadel</a></li>
+                    		</ul>
+                		</li>
+        			</ul>
+        		</div>
+		  	</div>
+		</nav>
+	    <div class="site-content container-fluid">
+	    	<div class="center header">
+	    		<img src="http://static.planetminecraft.com/files/resource_media/screenshot/1434/blockhuntjpg8031068_lrg.jpg">
+	    	</div>
+			<div class="center">
+				<div class="row alerts">
+				  	<div class="col-md-6 col-sm-6">
+				  		<!--a href="/news/serverreset">
+							<img class="home-icon" src="http://tumy-tech.com/wp-content/uploads/2014/10/Automated-Password-Reset-resized-600.png">
+				  		</a-->
+				  		<div id="alert-1" class="alert alert-danger text-float-left">
+					  		<strong>
+					  			<h4>Oh no!</h4>
+					  		</strong>
+							<img style="width: 200px" src="http://3.bp.blogspot.com/-SHRvGbq53go/UvrRZ62nAvI/AAAAAAAAEHg/0hKUB88As-c/s1600/reset-button.png"> </img>
+					  		<p>Due to an unfortunate error, the server had to do a reset! A staff member accidentally spawned thousands of particles, making the world un-joinable. We are sorry!</p>
+						</div>
+				  	</div>
+				  	<div class="col-md-6 col-sm-6">
+				  		<!--img class="home-icon" src="http://vignette4.wikia.nocookie.net/minecraftpocketedition/images/b/ba/Observer_block.jpeg/revision/latest?cb=20160503015712"-->
+				  		<div id="alert-2" class="alert alert-success text-float-left">
+					  		<strong>
+					  			<h4>Oh yes!</h4>
+					  		</strong>
+					  		<img style="width: 200px" src="https://i1.ytimg.com/sh/rASznq25Ls4/showposter.jpg?v=533727b6"> </img>
+							<p>Our server uses over 200+ commandblocks!</p>
+						</div>
+				  	</div>
+				</div>
+			</div>
+	    </div>
+
+		<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+	    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	    <script src="/assets/js/script.js"></script>
+	</body>
+</html>
